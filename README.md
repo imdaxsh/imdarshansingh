@@ -1,5 +1,4 @@
-
-![giphy](https://user-images.githubusercontent.com/88918534/157513063-85103215-fc71-4a05-b3dc-889f92c80dc3.gif)
+<img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="500" />
 
 <h1> 🔭 About me: </h1>
 My name is Darshan singh. I'm 21 years old . 
