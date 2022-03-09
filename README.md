@@ -4,7 +4,7 @@
 <h1> About me </h1>
 My name is Darshan singh. I'm 21 years old . 
 <br> Code a little 💻, eats a lot 🍕</br>
-<br> passionate about exploring the world  :) </br>
+ Passionate about exploring the world  :) 
 
 
 
