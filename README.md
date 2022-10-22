@@ -26,3 +26,4 @@ LinkedIn - https://www.linkedin.com/in/darshan-bisht-9195ba195</br>
  []https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white - https://twitter.com/hey_itsdarshan
 
 
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
