@@ -13,6 +13,7 @@ My name is Darshan singh. I'm 21 years old.
 <br> Code a little 💻, eats a lot 🍕</br>
  Passionate about exploring the world  :) 
 
+![C%2B%2B-00599C_style=for-the-badge logo=c%2B%2B logoColor=white](https://user-images.githubusercontent.com/88918534/197322398-4bf39142-20a5-48e7-94cf-a4197e86e1a0.png)
 
 
 
