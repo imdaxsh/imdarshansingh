@@ -1,10 +1,7 @@
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-![1](https://user-images.githubusercontent.com/88918534/187201907-9f5afd90-9d1a-4bea-9eb7-a994a2729851.gif)        ![as](https://user-images.githubusercontent.com/88918534/187202172-2f10e200-69fa-482e-8452-64e8f084750c.gif)
-
-
-
-
-
+![1](https://user-images.githubusercontent.com/88918534/187201907-9f5afd90-9d1a-4bea-9eb7-a994a2729851.gif)        
+![](https://user-images.githubusercontent.com/88918534/187202172-2f10e200-69fa-482e-8452-64e8f084750c.gif)
 
 
 
