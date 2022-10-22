@@ -11,9 +11,8 @@
 <h1 align="center">Hi 👋, I'm Darshan singh</h1>
 <h3 align="center">I'm 21 years old. Code a little 💻, eats a lot 🍕 :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdarshansingh&label=Profile%20views&color=0e75b6&style=flat" alt="imdarshansingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hey_itsdarshan" target="blank"><img src="https://img.shields.io/twitter/follow/hey_itsdarshan?logo=twitter&style=for-the-badge" alt="hey_itsdarshan" /></a> </p>
+
 
 - 🌱 I’m currently learning **Unity**
 
