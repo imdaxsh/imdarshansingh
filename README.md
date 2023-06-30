@@ -1,4 +1,5 @@
-![WAP (1)22](https://user-images.githubusercontent.com/88918534/234092453-f5a50b59-9db7-4790-9710-19d580f02986.png)
+![DARSHAN SINGH BISHT_page-0001](https://github.com/imdarshansingh/imdarshansingh/assets/88918534/c3d48af3-d6d0-4eb6-b098-62813e518a14)
+
 
 <h1 align="center">Hi 👋, I'm Darshan </h1>
 
